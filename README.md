@@ -1,5 +1,5 @@
 # zona_de_habitabilidad
-codigo en donde se mostrará la zona de habitabilidad
+funcion la cual calcula la zona de habitabilidad
 para ellos se necesitan los siguientes datos que seran ingresados por el usuario:
     - la temperatura *EN KELVIN* de la estrella 
     - el radio de la estrella *EN KILOMETROS*.
